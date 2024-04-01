@@ -1,0 +1,1 @@
+﻿delete from PROJECT where Project_Number=6;

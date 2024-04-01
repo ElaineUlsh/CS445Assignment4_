@@ -1,0 +1,1 @@
+﻿select * from Employee where Emp_Dept_Number=3;

@@ -1,0 +1,1 @@
+﻿select count (*) from Employee where Emp_City='Muncie';
